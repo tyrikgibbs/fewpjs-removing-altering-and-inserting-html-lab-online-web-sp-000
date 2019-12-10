@@ -9,4 +9,4 @@ document.body.appendChild(element)
 let newHeader = document.getElementById('victory');
 
 content = someTextArea.value;
-victory.innerHTML = ('${content} is the champion');
+document.element.innerHTML = ('${content} is the champion');
