@@ -3,5 +3,5 @@ main.remove()
 
 document.body.appendChild(element)
 let element = document.createElement('h1');;
-g.id = ('victory');
+elemeny.id = ('victory');
 let newHeader = document.getElementById('victory');
