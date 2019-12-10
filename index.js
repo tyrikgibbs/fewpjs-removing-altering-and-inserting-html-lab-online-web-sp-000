@@ -1,7 +1,7 @@
 // Write your code here!
 main.remove()
 
-let element = document.createElement('h1');
-element.className= "g";
+document.body.appendChild(element)
+let element = document.createElement('h1');;
 g.id = ('victory');
 let newHeader = document.getElementById('victory');
