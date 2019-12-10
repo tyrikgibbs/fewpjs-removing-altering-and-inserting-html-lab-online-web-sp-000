@@ -10,4 +10,3 @@ content = someTextArea.value;
 elements.innerHTML = ('${content} is the champion');
 
 let newHeader = document.getElementById('victory');
-
