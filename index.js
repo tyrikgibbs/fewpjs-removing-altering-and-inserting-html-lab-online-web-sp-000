@@ -7,5 +7,3 @@ element.id = ('victory');
 document.body.appendChild(element)
 
 let newHeader = document.getElementById('victory').innerHTML = ('${content} is the champion');;
-
-
